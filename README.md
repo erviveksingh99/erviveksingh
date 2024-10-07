@@ -1,10 +1,10 @@
 
-![logo]()
+![logo](https://github.com/erviveksingh99/erviveksingh/blob/main/Blue%20And%20Green%20Professional%20Technology%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Vivek Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Java developer from India</h3>
 
-<img align="right" alt="coding" width="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvidip.tech%2F&psig=AOvVaw3aNPuYudnxOdg1dOLUBxjc&ust=1728415905578000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjzhaiB_YgDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="300" src="https://vidip.tech/assets/hero_section-75d6b358.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erviveksingh99&label=Profile%20views&color=0e75b6&style=flat" alt="erviveksingh99" /> </p>
 
